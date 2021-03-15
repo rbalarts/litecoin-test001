@@ -1,0 +1,35 @@
+
+Genesis Block Input Parameters
+			
+Timestamp Message   : BBC World 14/Mar/2021 Bitcoin surges past $61,000 for first time.
+Timestamp           : 1615734352 
+Block Rewards       : 24
+PUB Secretkey       : 060984710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+    
+    
+    
+------------------------------Main Net--------------------------------------------------------
+  
+Time Stamp	    : 1615734352
+Bits			: 0x1e0ffff0
+Nonce			: 2002666701
+Merkle  Hash	: 0xa1acb95ba803c49fbb3a6890745ed185ab32ab1002d55d7d07e7449c35e1e1ea
+Genesis Hash	: 0xa9e13ff7ac44b0a4c66c53741a6e07720cc5eb513cc31195cd02e2fab0eff9ee 
+  
+     
+------------------------------Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1615734352
+Bits			: 0x1e0ffff0
+Nonce			: 443508
+Merkle  Hash	: 0xa1acb95ba803c49fbb3a6890745ed185ab32ab1002d55d7d07e7449c35e1e1ea
+Genesis Hash	: 0xe05c450af521e78772bfb16599de1c6b6fa2fd2f4bacfbbf7457519d86c10752 
+     
+     
+------------------------------Regression Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1615734352
+Bits			: 0x207fffff
+Nonce			: 0
+Merkle  Hash	: 0xa1acb95ba803c49fbb3a6890745ed185ab32ab1002d55d7d07e7449c35e1e1ea
+Genesis Hash	: 0x2b8bfbc98a1c8f9883858872b69757e628d63f4c8942f2c7d1b8365e7a122de8 
